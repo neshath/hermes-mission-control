@@ -1,0 +1,1 @@
+{"name":"mission-control","label":"Mission Control","description":"Plan work and inspect local agent telemetry","icon":"Radar","version":"1.0.0","tab":{"path":"/mission-control","position":"after:sessions"},"slots":["sessions:top"],"entry":"dist/index.js","api":"plugin_api.py"}
